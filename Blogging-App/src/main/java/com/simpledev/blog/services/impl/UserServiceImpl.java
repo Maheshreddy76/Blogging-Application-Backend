@@ -38,6 +38,12 @@ public class UserServiceImpl implements UserService {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	@Override
+	public void deleteUser(Integer userId) {
+		// TODO Auto-generated method stub
+		
+	}
 	public User userDtoToUser(UserDto userDto) {
 		User user=new User();
 		user.setId(userDto.getId());
