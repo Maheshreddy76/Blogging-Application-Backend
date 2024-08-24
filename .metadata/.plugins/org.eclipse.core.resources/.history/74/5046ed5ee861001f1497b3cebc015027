@@ -1,0 +1,5 @@
+package com.simpledev.blog.payloads;
+
+public class UserDto {
+
+}
