@@ -1,0 +1,5 @@
+package com.simpledev.blog.services;
+
+public interface UserService {
+
+}
