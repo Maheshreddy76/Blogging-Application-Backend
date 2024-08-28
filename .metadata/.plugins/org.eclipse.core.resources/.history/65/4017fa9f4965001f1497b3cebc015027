@@ -1,0 +1,5 @@
+package com.simpledev.blog.exceptions;
+
+public class ResourceNotFoundException {
+
+}
